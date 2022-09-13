@@ -63,7 +63,7 @@ h1{
 }
 
 .blue{
-    background-color: rgb(40, 71, 250);
+    background-color: #47adf1;
     color: white;
     border-radius: 5px 5px 5px 5px; 
 }
@@ -91,7 +91,7 @@ ul{
 }
 
 .blue-two{
-    background-color: rgb(40, 71, 250);
+    background-color: #47adf1;
     color: white;
     border-radius: 10px 10px 10px 10px; 
 }
@@ -116,6 +116,12 @@ ul{
 
 .rosa{
     background-color: #d863a1;
+    color: white;
+    border-radius: 10px 10px 10px 10px; 
+}
+
+.verde{
+    background-color: #b0c926;
     color: white;
     border-radius: 10px 10px 10px 10px; 
 }

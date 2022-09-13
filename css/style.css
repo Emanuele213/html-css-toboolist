@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 body{
     background-color: lightgray;
 }
@@ -55,6 +59,7 @@ h1{
     padding-top: 15px;
     padding-left: 20px;
     padding-bottom: 15px;
+    
 }
 
 .blue{
@@ -82,4 +87,17 @@ hr{
 ul{
     list-style-image: url('../img/freccia.svg.');
     font-size: 20px;
+    padding-left: 20px;
+}
+
+.blue-two{
+    background-color: rgb(40, 71, 250);
+    color: white;
+    border-radius: 10px 10px 10px 10px; 
+}
+
+.viola{
+    background-color: #9c72e4;
+    color: white;
+    border-radius: 10px 10px 10px 10px; 
 }

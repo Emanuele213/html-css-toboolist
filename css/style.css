@@ -58,7 +58,7 @@ h1{
 }
 
 .blue{
-    background-color: lightblue;
+    background-color: rgb(40, 71, 250);
     color: white;
     border-radius: 5px 5px 5px 5px; 
 }
